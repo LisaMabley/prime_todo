@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 18px;
+  margin: 6px;
+}
+
+#itemListing input {
+  margin: 6px 8px 8px 6px;
+  vertical-align: middle;
+}
+
+#itemListing .delete_btn {
+  color: lightgray;
+  padding: 10px;
+  display: inline-block;
+  height: 12px;
+  width: 12px;
+}
+
+#itemListing .done {
+  color: lightgray;
+}
